@@ -22,15 +22,15 @@ Here are the results of the analysis based on the questions we sought to answer:
 #### What is the average monthly charge across different customer demographics?
   
   - Average monthly charges by senior citizen status
-####    
+    
   <img width="395" alt="Screenshot 2024-09-07 at 5 01 13 PM" src="https://github.com/user-attachments/assets/d153e273-5f25-409b-9d2d-d30cea62a9ab">
 
   - Average monthly charges by gender
-#### 
+ 
   <img width="449" alt="Screenshot 2024-09-07 at 6 36 06 PM" src="https://github.com/user-attachments/assets/91806fa2-b080-46b1-aee5-1c45e88ad47c">
 
   - Average monthly charges by partner status
-#### 
+ 
   <img width="474" alt="Screenshot 2024-09-07 at 6 36 31 PM" src="https://github.com/user-attachments/assets/9a9cc3fb-6aa6-4770-8e88-f31362af95b8">
 
 ##### Finding:
