@@ -11,7 +11,7 @@ The provided dataset contains customer information, demographics, service usage,
 - Churn: Whether the customer has churned or not.
 
 ### Exploratory Data Analysis (EDA)
-We conducted an initial EDA better to understand the data distribution and relationships between variables. The EDA steps included:
+We conducted an initial EDA to better understand the data distribution and relationships between variables. The EDA steps included:
 - Data Overview: We reviewed the dataset's structure, missing values, and basic statistics.
 - Distribution Plots:
   - The distribution of churn (Yes/No) using a count plot.
